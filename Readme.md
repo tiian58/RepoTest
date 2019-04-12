@@ -1,4 +1,5 @@
-#Test Repository
+Test Repository
 
-##Subtitulo
+Subtitulo
+
 Es un repositorio para realizar pruebas con git.
